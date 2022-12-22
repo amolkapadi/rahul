@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/********Google font Link*********/
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+/****Navbar Start*******/
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: black;
+}
+
+/*******Main Content Start *******/
+.main-container {
+    background-color: rgb(13, 179, 220) !important;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.main-div {
+    width: 600px;
+    height: 500px;
+}
+
+.btn-primary {
+    margin-top: 40px !important;
+    background-color: aliceblue;
+    color: black;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: aliceblue;
+    color: black;
+}
+
+.main-div p {
+    color: white;
+}
+
+.main-div h3 {
+    font-weight: 600;
+    font-size: 35px;
+    color: white;
+}
+
+/*******Main Content End *******/
+
+
+
+
+/*******Main Content  2 Start *******/
+
+.main-container2  h3{
+    font-weight: 500;
+    font-size: 35px;
+}
+/*******Main Content  2 End *******/
+
+
+/*****Price Section Start*****/
+.card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+}
+.card-body{
+    border-radius: 10px;
+    background-color: rgb(13, 179, 220) !important;
+}
+
+
+.btn-secondary {
+    border-radius: 50px;
+    background: white;
+    color: black;
+    border: none;
+}
+
+.btn-success{
+    background-color: rgb(13, 179, 220) !important;
+    border: none;
+    
+}
+
+/*****Price Section Start*****/
+
