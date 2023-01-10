@@ -93,3 +93,41 @@
 
 /*****Price Section Start*****/
 
+
+
+/*****Tools Sections Start*****/
+.tool-container{
+    background-color: aliceblue;
+    padding:20px;
+}
+.icon{
+    background-color: white;
+    font-size: 50px;
+    border-radius: 50px;
+    width: 100px;
+    text-align: center;
+    height: 100px;
+}
+
+
+
+/******function-card*****/
+.function-card{
+    margin: 50px;
+    padding: 30px;
+    border-radius: 0%;
+    background-color: hwb(180 93% 4%);
+}
+.function-icon{
+    background-color: white;
+    font-size: 50px;
+    border-radius: 50px;
+    width: 100px;
+    text-align: center;
+    height: 100px;
+    position: absolute;
+    top: -54px;
+    left: -50px;
+    background: cadetblue;
+    color: white;
+}
